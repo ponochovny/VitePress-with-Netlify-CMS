@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: VitePress + Netlify CMS
+heroText: VitePress + Netlify CMS123
 tagline: A starter template for your JAMstack websits
 actionText: Get Started →
 actionLink: /guide/
@@ -9,9 +9,8 @@ features:
     title: Git-powered content
   - details: Create your own custom theme and use Vue components in your content.
     title: Vue-powered development
-  - details: >-
-      VitePress is VuePress' little brother, built on top of Vite.
-      See more > https://vitepress.vuejs.org/
+  - details: VitePress is VuePress' little brother, built on top of Vite. See more >
+      https://vitepress.vuejs.org/
     title: Too fast
 footer: Template maintained by tsutoringo | MIT Licensed
 ---
