@@ -1,6 +1,7 @@
 ---
 home: true
-heroText: VitePress + Netlify CMS123
+heroImage: /media/3144914.png
+heroText: VitePress + Netlify CMS
 tagline: A starter template for your JAMstack websits
 actionText: Get Started →
 actionLink: /guide/
